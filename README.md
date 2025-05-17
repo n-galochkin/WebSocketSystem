@@ -1,1 +1,1 @@
-# WebSocketSystem
+My code snippet is from a real project where we implemented a websocket system to communicate with backend services using JSON messages. We used templated parsing and delegate meta-game services on both the game client and the service sides.
